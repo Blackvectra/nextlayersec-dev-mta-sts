@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: nextlayersec-dev.mail.protection.outlook.com
+mx: nextlayersec-dev.l-v1.mx.microsoft
 max_age: 86400
